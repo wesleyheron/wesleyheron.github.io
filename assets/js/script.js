@@ -30,4 +30,5 @@ $( document ).ready(function() {
                     $('#index_right').addClass('animated slideInRight');
                     });
            
-		});
+        });
+        
