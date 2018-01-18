@@ -82,11 +82,12 @@ body{
 
 .btn-rabbit:hover{
 	color: #fff;
-	background-color: #111;
-	border-color: #111;}
+	background-color: #111111;
+	border-color: #111111;}
 
 p{
-	color: #585757;
+	/*color: #585757;*/
+	color: #111111;
 	font-size: 16px;
 	
 }
