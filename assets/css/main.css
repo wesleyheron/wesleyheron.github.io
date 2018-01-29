@@ -162,6 +162,7 @@ footer{
 	border-radius: 0;
 	font-family: "Crimson";
 	font-size: 16px;
+	border: 1px solid #111111;
 }
 
 .page-title{
